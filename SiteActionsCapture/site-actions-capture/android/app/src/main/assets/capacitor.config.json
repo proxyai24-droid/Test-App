@@ -1,0 +1,13 @@
+{
+	"appId": "com.jrindustries.siteactions",
+	"appName": "Site Actions",
+	"webDir": "www",
+	"android": {
+		"allowMixedContent": false
+	},
+	"plugins": {
+		"SystemBars": {
+			"insetsHandling": "css"
+		}
+	}
+}

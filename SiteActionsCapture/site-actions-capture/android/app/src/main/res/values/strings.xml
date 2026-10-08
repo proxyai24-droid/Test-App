@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Site Actions</string>
+    <string name="title_activity_main">Site Actions</string>
+    <string name="package_name">com.jrindustries.siteactions</string>
+    <string name="custom_url_scheme">com.jrindustries.siteactions</string>
+</resources>

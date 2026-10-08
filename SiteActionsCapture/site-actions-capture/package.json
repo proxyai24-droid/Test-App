@@ -1,0 +1,22 @@
+{
+  "name": "site-actions-capture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline Android app to capture site photos with action captions and export them as a ZIP for Site Register",
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android",
+    "test": "node test/core.test.js"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/app": "^8.1.2",
+    "@capacitor/camera": "^8.2.5",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "@capacitor/filesystem": "^8.1.4",
+    "@capacitor/preferences": "^8.0.1",
+    "@capacitor/share": "^8.0.3",
+    "jszip": "^3.10.2"
+  }
+}
